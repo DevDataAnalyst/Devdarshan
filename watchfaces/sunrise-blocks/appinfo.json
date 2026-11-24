@@ -1,0 +1,17 @@
+{
+  "uuid": "8c43a8e1-2be8-4fe9-914c-9e83b88a0003",
+  "shortName": "Sunrise Blocks",
+  "longName": "Sunrise Blocks",
+  "companyName": "DevDataAnalyst",
+  "versionLabel": "1.0",
+  "versionCode": 1,
+  "watchface": true,
+  "appKeys": {},
+  "resources": {
+    "media": []
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}

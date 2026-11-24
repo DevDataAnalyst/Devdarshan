@@ -1,0 +1,21 @@
+{
+  "uuid": "8c43a8e1-2be8-4fe9-914c-9e83b88a0002",
+  "shortName": "Hello Rocky",
+  "longName": "Hello Rocky",
+  "companyName": "DevDataAnalyst",
+  "versionLabel": "1.0",
+  "versionCode": 1,
+  "watchface": true,
+  "appKeys": {},
+  "resources": {
+    "media": []
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk",
+    "diorite",
+    "emery"
+  ],
+  "sdkVersion": "3"
+}
